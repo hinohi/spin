@@ -1,0 +1,17 @@
+canvas {
+    display: block;
+    margin: auto;
+    border: 1px solid black;
+}
+
+.leftbox {
+    float: left;
+}
+
+.rightbox {
+    float: right;
+}
+
+.centerbox{
+    float: center;
+}
